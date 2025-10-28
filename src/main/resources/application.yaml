@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: "Dev Dashboard"
+
+server:
+  port: 9999
+
